@@ -15,4 +15,12 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/botaoID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/botaoMainActivity"
+        tools:layout_editor_absoluteX="107dp"
+        tools:layout_editor_absoluteY="186dp" />
+
 </android.support.constraint.ConstraintLayout>

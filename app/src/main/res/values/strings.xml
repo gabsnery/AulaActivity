@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AulaActivity</string>
+    <string name="botaoMainActivity">Abrir Nova Activity</string>
+    <string name="TextoAcitivity2">Segunda Activity </string>
 </resources>
